@@ -1,10 +1,10 @@
 <div align="center">
-   <img width="160" src="https://github.com/Asterism12/mirai-console-reread-machine/blob/master/reread.jpg" alt="show"></br>
+   <img width="160" src="https://github.com/Asterism12/Repeater-Mirai-Console-/blob/master/repeater.jpg" alt="show"></br>
    
    A hello world project for mirai-console.
 </div>
 
-# mirai-console-reread-machine
+# Repeater(Mirai-Console)
 我是一个无情的复读机器
 
 ## About
